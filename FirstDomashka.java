@@ -1,3 +1,10 @@
+/**
+* Java 1. Homework#1
+*
+* @author Nikitin Vitaliy
+* @version 13.12.2021
+*
+*/
 class FirstDomashka {
     public static void main(String[] args) {
         printThreeWords();
